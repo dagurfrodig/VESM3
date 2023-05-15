@@ -1,1 +1,1 @@
-[myndband](https://youtube.com/shorts/K5esImO1hqg)
+[myndband](https://youtube.com/watch?v=K5esImO1hqg)
