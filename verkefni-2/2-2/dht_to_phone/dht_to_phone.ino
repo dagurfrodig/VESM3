@@ -9,8 +9,8 @@
 //#define DHTTYPE DHT22   // DHT 22  (AM2302), AM2321
 
 /*Put your SSID & Password*/
-const char* ssid = "ORBI79";  // Enter SSID here
-const char* password = "bluecoconut870";  //Enter Password here
+const char* ssid = "TskoliVESM";  // Enter SSID here
+const char* password = "Fallegurhestur";  //Enter Password here
 
 WebServer server(80);
 
